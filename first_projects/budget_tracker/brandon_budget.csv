@@ -1,0 +1,6 @@
+type,amount,description
+income,1400.0,rent
+income,50.0,plasma
+expense,400.0,rent
+income,1600.0,work
+expense,20.0,Emma
